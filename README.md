@@ -15,4 +15,6 @@
 
 ᴅᴇᴠᴇʟᴏᴘᴇʀs: [@TheGulay](https://telegram.me/TheGulay)
 
-Aliyev Ali
+
+
+Aliyev Ali tərəfindən dəsdək verilib. BDU Tələbəsi
