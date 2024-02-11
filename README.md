@@ -29,3 +29,5 @@ git fetch origin
 git branch -u origin/master master
 git remote set-head origin -a
 ```
+
+Paylaşan şəxs: [@TheGulay](https://telegram.me/TheGulay)
