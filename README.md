@@ -1,15 +1,18 @@
 ### hozu_list
 ────────────────────
 
-ᴋᴀɴᴀʟ | @HEWartTV\n
+ᴋᴀɴᴀʟ | @HEWartTV
+
 ᴋᴀɴᴀʟ | @DegGixM
 
 ────────────────────
 
 ɢʀᴜᴘ | @TFGrup
+
 ɢʀᴜᴘ | @DejavTeam
 
 ────────────────────
+
 ᴅᴇᴠᴇʟᴏᴘᴇʀs: @TheGulay
 
 Aliyev Ali
