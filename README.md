@@ -19,6 +19,9 @@
 
 Aliyev Ali tərəfindən dəsdək verilib. BDU Tələbəsi
 
+```
+git clone https://github.com/offlineflood/hozu_list.git
+```
 
 ```
 git branch -m main master
