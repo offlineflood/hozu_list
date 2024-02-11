@@ -31,3 +31,4 @@ git remote set-head origin -a
 ```
 
 Paylaşan şəxs: [@TheGulay](https://telegram.me/TheGulay)
+GitHub: [ThrLizz](https://github.com/ThrLizz)
