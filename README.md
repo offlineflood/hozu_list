@@ -1,18 +1,18 @@
 ### hozu_list
 ────────────────────
 
-ᴋᴀɴᴀʟ | @HEWartTV
+ᴋᴀɴᴀʟ | [@HEWartTV](https://telegram.me/HEWartTV)
 
-ᴋᴀɴᴀʟ | @DegGixM
-
-────────────────────
-
-ɢʀᴜᴘ | @TFGrup
-
-ɢʀᴜᴘ | @DejavTeam
+ᴋᴀɴᴀʟ | [@DegGixM](https://telegram.me/DegGixM)
 
 ────────────────────
 
-ᴅᴇᴠᴇʟᴏᴘᴇʀs: @TheGulay
+ɢʀᴜᴘ | [@TFGrup](https://telegram.me/TFGrup)
+
+ɢʀᴜᴘ | [@DejavTeam](https://telegram.me/DejavTeam)
+
+────────────────────
+
+ᴅᴇᴠᴇʟᴏᴘᴇʀs: [@TheGulay](https://telegram.me/TheGulay)
 
 Aliyev Ali
